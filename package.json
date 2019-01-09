@@ -1,0 +1,7 @@
+{
+  "name": "lerna-npm-sample",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.8.5"
+  }
+}
